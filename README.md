@@ -91,7 +91,7 @@ public class GoogleStorageService {
 
   - 호출하고 나면 GCS Buccket에 파일이 업로드 된다.
     ![img_10.png](./image/img_10.png)
-    ![img.png](img.png)
+    ![img_11.png](./image/img_11.png)
     
 
 ## Reference
