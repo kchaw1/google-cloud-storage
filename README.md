@@ -59,7 +59,7 @@ public class GoogleStorageService {
                                     .setContentType("image/jpeg")
                                     .build();
 
-        // 로컬 경로에서 파일을 읽어 바이트로 변환
+        // 로컬 경로에서 파일을 읽어 바 변환
         byte[] content = new FileInputStream(uploadDto.getLocalFileLocation()).readAllBytes();
 
         // 위에서 생성한 BlobInfo 와 file을 토대로 스토리지에 파일을 생성한다. 
