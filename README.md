@@ -1,7 +1,5 @@
 # Spring Boot + Google Cloud Storage 연동
 
----
-
 ## gradle 의존성 추가
 ```groovy
 implementation 'com.google.cloud:spring-cloud-gcp-starter-storage'
